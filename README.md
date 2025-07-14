@@ -1,16 +1,9 @@
 # TryYours - High Resolution Virtual Try On site using HR-VITON.
-![teaser image](./figures/teaser.png)
-> [KR presentation](./TryYours_presentation_kr.pdf)
 
 ## Colab Demo
 You can simply try it using colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fP5Wia4ukTp6WC5FlSa7InW7cOLXCePy?usp=sharing)
 
-## Team member
-
-|<img src="https://avatars.githubusercontent.com/lastdefiance20" width="100">| <img src="https://avatars.githubusercontent.com/hswek" width="100">|
-|-|-|
-|[Jaeyoon Jung](https://github.com/lastdefiance20), soongsil university|[Seungwoo Han](https://github.com/hswek), soongsil university|
 
 ## Process Overview
 ![process overview image](./figures/process_overview.png)
